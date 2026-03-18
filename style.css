@@ -187,7 +187,7 @@ color: red;
 display:flex;
 align-items:center;
 justify-content:space-between;
-gap:50px;
+gap:50px;flex-wrap: wrap;
 max-height: 100vh;
 background:#3ef0e7d5;
 }
