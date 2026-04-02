@@ -113,6 +113,7 @@ margin-bottom:5px;
     color:black;
     margin-bottom:10px;
     font-weight: bold;
+    line-height:1.6;
 }
 /* Image */
 .Overview-image{
@@ -133,9 +134,7 @@ margin-top: 10px;
 .Overview-text p1{
     display: flex;
     flex-wrap: wrap;
-    max-width:600px;
-
-width: 60%;
+    max-width:400px;
 font-size:18px;
 line-height:1.6;
 margin-bottom:10px;
