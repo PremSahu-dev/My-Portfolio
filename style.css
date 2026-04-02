@@ -186,9 +186,9 @@ color: red;
  #about{
 display:flex;
 align-items:center;
-justify-content:space-between;
-gap:30px;
-flex-wrap: wrap;
+justify-content:center;
+/* gap:30px;
+flex-wrap: wrap; */
 max-height: 100vh;
 background:#3ef0e7d5;
 }
@@ -225,7 +225,7 @@ margin-bottom:30px;
 }
 
 
-.about-image{
+/* .about-image{
 width:10%;
 text-align: center;
 }
@@ -237,7 +237,7 @@ margin-left: 70px;
     border-radius:50%;
     object-fit:cover;
      box-shadow: 0 0 50px rgb(255, 0, 0);
-}
+} */
 /* skills */
 #skills{
 background:#3ef0e7d5;
